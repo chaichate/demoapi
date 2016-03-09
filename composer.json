@@ -1,0 +1,12 @@
+{
+    "name": "chaii/rounter",
+    "authors": [
+        {
+            "name": "chaichate",
+            "email": "chai_chate@hotmail.com"
+        }
+    ],
+    "require": {
+         "altorouter/altorouter": "1.1.0"
+    }
+}
